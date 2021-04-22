@@ -1,8 +1,9 @@
+import { Navbar } from './components'
 
 function App() {
   return (
-    <div className="App">
-      <span className="text-red-700">Tes</span>
+    <div>
+      <Navbar />
     </div>
   );
 }
